@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Python для новичков'
+copyright = '2023, Malikov Aleksandr'
+author = 'Malikov Aleksandr'
 
 release = '0.1'
 version = '0.1.0'

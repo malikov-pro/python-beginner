@@ -1,9 +1,8 @@
-Шаблон для документации по Python
+Документация для новичков по Python
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Это репозиторий с документацией для новичков
 
-Read the tutorial here:
+Смотреть докуметацию можно по ссылке:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://python-beginner.readthedocs.io/
