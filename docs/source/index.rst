@@ -8,8 +8,8 @@
    :titlesonly:
    :maxdepth: 2
 
-   create_vps
-   unix_command
+   1_create_vps
+   2_basic_utils
 
 .. note::
     Этот проект находится в активной разработке.
