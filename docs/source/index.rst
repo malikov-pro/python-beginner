@@ -8,8 +8,8 @@
    :titlesonly:
    :maxdepth: 2
 
-   1_create_vps
-   2_basic_utils
+   1_create_vps/index
+   2_basic_utils/index
 
 .. note::
     Этот проект находится в активной разработке.
