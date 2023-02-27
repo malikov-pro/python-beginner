@@ -72,3 +72,8 @@
 * 3 способ: нажать кнопку `F5`.
 
 :doc:`Буферизация электронной почты </2_basic_utils/unix_command>`
+
+.. uml::
+
+  Alice -> Bob: Hi!
+  Alice <- Bob: How are you?
